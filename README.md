@@ -1,0 +1,1 @@
+website with stunning 3D scroll animation using modern HTML, CSS and JavaScript. We developed a model for the movement of slides in depth, smoothness, beautifully designed the composition using CSS, and also worked with audio and video content on the page.
